@@ -1,0 +1,51 @@
+PODS:
+  - Alamofire (4.8.0)
+  - AlamofireImage (3.5.0):
+    - Alamofire (~> 4.8)
+  - AlamofireObjectMapper (5.2.0):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - IQKeyboardManagerSwift (6.2.0)
+  - ObjectMapper (3.4.1)
+  - SideMenu (5.0.3)
+  - SkyFloatingLabelTextField (3.6.0)
+  - SVProgressHUD (2.2.5)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage (~> 3.5)
+  - AlamofireObjectMapper (~> 5.2)
+  - IQKeyboardManagerSwift
+  - ObjectMapper (~> 3.4)
+  - SideMenu
+  - SkyFloatingLabelTextField (~> 3.0)
+  - SVProgressHUD
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireImage
+    - AlamofireObjectMapper
+    - IQKeyboardManagerSwift
+    - ObjectMapper
+    - SideMenu
+    - SkyFloatingLabelTextField
+    - SVProgressHUD
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 3ec537f71edc9804815215393ae2b1a8ea33a844
+  AlamofireImage: 1aea346f4dda2f6c67622fa5a89fcbb80d79cc16
+  AlamofireObjectMapper: 92b6ce2423a9d159e686f6a1d514a009bf903ddc
+  IQKeyboardManagerSwift: b07ccf9d8cafe993dcd6cb794eb4ba34611a0c4e
+  ObjectMapper: 5311bd50ca732930959e7ca1a2de43ab823a5ced
+  SideMenu: 1dcaabce84538c53325c287f7fe62999379a641c
+  SkyFloatingLabelTextField: 38164979b79512f9ff9288ad8acfc4bbf5d843e3
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: 1eacd774b8ad4e50aba276e560bb213f105597e4
+
+COCOAPODS: 1.6.1

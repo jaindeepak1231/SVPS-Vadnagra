@@ -1,0 +1,171 @@
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "1h5-iK-Czh"; */
+"1h5-iK-Czh.text" = "First Name";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "1kW-SS-Ulh"; */
+"1kW-SS-Ulh.text" = "First Name";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "20N-Uq-ZMe"; */
+"20N-Uq-ZMe.text" = "Email";
+
+/* Class = "UILabel"; text = "Company Phone No."; ObjectID = "2XK-V7-efB"; */
+"2XK-V7-efB.text" = "Company Phone No.";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "31l-i2-8Hn"; */
+"31l-i2-8Hn.text" = "First Name";
+
+/* Class = "UILabel"; text = "Birthdate"; ObjectID = "7VK-zZ-KtG"; */
+"7VK-zZ-KtG.text" = "Birthdate";
+
+/* Class = "UIButton"; normalTitle = "Not a member? Sign up now."; ObjectID = "8lr-Z4-bPR"; */
+"8lr-Z4-bPR.normalTitle" = "Not a member? Sign up now.";
+
+/* Class = "UILabel"; text = "Country"; ObjectID = "9F9-XP-Dpo"; */
+"9F9-XP-Dpo.text" = "Country";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "9xb-sJ-7my"; */
+"9xb-sJ-7my.text" = "First Name";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "B0s-9H-VeY"; */
+"B0s-9H-VeY.text" = "First Name";
+
+/* Class = "UILabel"; text = "Telephone Number"; ObjectID = "BXD-VK-t4d"; */
+"BXD-VK-t4d.text" = "Telephone Number";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "BeQ-Hh-2o1"; */
+"BeQ-Hh-2o1.text" = "Address";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "C9i-55-cK5"; */
+"C9i-55-cK5.text" = "First Name";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "CeY-eh-k1g"; */
+"CeY-eh-k1g.text" = "First Name";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "DZD-dX-fBf"; */
+"DZD-dX-fBf.text" = "First Name";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "Eo8-9y-wIt"; */
+"Eo8-9y-wIt.text" = "First Name";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "I8P-Qv-kQd"; */
+"I8P-Qv-kQd.text" = "First Name";
+
+/* Class = "UILabel"; text = "Mobile No."; ObjectID = "JFf-FJ-Je9"; */
+"JFf-FJ-Je9.text" = "Mobile No.";
+
+/* Class = "UILabel"; text = "Relation"; ObjectID = "JtJ-61-rFa"; */
+"JtJ-61-rFa.text" = "Relation";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "L2L-Fs-KCz"; */
+"L2L-Fs-KCz.text" = "First Name";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "Le8-UB-UhE"; */
+"Le8-UB-UhE.text" = "First Name";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "NV0-Wl-EI9"; */
+"NV0-Wl-EI9.text" = "First Name";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "OJb-SC-KOK"; */
+"OJb-SC-KOK.text" = "Gender";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "PdP-FR-V0Q"; */
+"PdP-FR-V0Q.text" = "First Name";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "PdX-Vr-2av"; */
+"PdX-Vr-2av.text" = "First Name";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "Pxx-X5-GCW"; */
+"Pxx-X5-GCW.text" = "First Name";
+
+/* Class = "UILabel"; text = "Pincode"; ObjectID = "QoU-tH-GH5"; */
+"QoU-tH-GH5.text" = "Pincode";
+
+/* Class = "UILabel"; text = "Last Name"; ObjectID = "R5g-Al-57g"; */
+"R5g-Al-57g.text" = "Last Name";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "Rig-Yy-Vbu"; */
+"Rig-Yy-Vbu.text" = "First Name";
+
+/* Class = "UILabel"; text = "Middle Name"; ObjectID = "TDJ-TB-i7G"; */
+"TDJ-TB-i7G.text" = "Middle Name";
+
+/* Class = "UILabel"; text = "Position"; ObjectID = "UUw-ip-5at"; */
+"UUw-ip-5at.text" = "Position";
+
+/* Class = "UIButton"; normalTitle = "CHANGE"; ObjectID = "UYd-uz-f6c"; */
+"UYd-uz-f6c.normalTitle" = "CHANGE";
+
+/* Class = "UILabel"; text = "Industry"; ObjectID = "VYg-UF-w7N"; */
+"VYg-UF-w7N.text" = "Industry";
+
+/* Class = "UILabel"; text = "Pole"; ObjectID = "WbR-Ef-ttQ"; */
+"WbR-Ef-ttQ.text" = "Pole";
+
+/* Class = "UILabel"; text = "Area"; ObjectID = "aCv-qE-7hu"; */
+"aCv-qE-7hu.text" = "Area";
+
+/* Class = "UILabel"; text = "Education"; ObjectID = "azm-3L-sYe"; */
+"azm-3L-sYe.text" = "Education";
+
+/* Class = "UIButton"; normalTitle = "SEND PASSWORD"; ObjectID = "b1X-gE-p7h"; */
+"b1X-gE-p7h.normalTitle" = "SEND PASSWORD";
+
+/* Class = "UILabel"; text = "Login / Signup"; ObjectID = "cac-J5-fLK"; */
+"cac-J5-fLK.text" = "Login / Signup";
+
+/* Class = "UILabel"; text = "Shakh"; ObjectID = "cfT-qq-ZWj"; */
+"cfT-qq-ZWj.text" = "Shakh";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "ewR-bj-1wY"; */
+"ewR-bj-1wY.normalTitle" = "Forgot Password?";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "gNI-qQ-oXo"; */
+"gNI-qQ-oXo.text" = "First Name";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "jUU-Rc-P8w"; */
+"jUU-Rc-P8w.text" = "First Name";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "kAg-l9-MzY"; */
+"kAg-l9-MzY.text" = "City";
+
+/* Class = "UILabel"; text = "ગુજરાતી"; ObjectID = "mf6-Wz-uSh"; */
+"mf6-Wz-uSh.text" = "ગુજરાતી";
+
+/* Class = "UILabel"; text = "Material Status"; ObjectID = "nGM-wD-G1A"; */
+"nGM-wD-G1A.text" = "Material Status";
+
+/* Class = "UILabel"; text = "Blood Group"; ObjectID = "nJ0-Pj-5yG"; */
+"nJ0-Pj-5yG.text" = "Blood Group";
+
+/* Class = "UILabel"; text = "Company Address"; ObjectID = "oDv-dB-E35"; */
+"oDv-dB-E35.text" = "Company Address";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "pJh-IA-WCU"; */
+"pJh-IA-WCU.text" = "First Name";
+
+/* Class = "UILabel"; text = "Urvi test ka vora"; ObjectID = "pjz-wS-IgS"; */
+"pjz-wS-IgS.text" = "Urvi test ka vora";
+
+/* Class = "UILabel"; text = "Occupation"; ObjectID = "rFc-tG-l12"; */
+"rFc-tG-l12.text" = "Occupation";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "uK0-V4-Gez"; */
+"uK0-V4-Gez.text" = "First Name";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "ua0-Yc-BBz"; */
+"ua0-Yc-BBz.text" = "First Name";
+
+/* Class = "UILabel"; text = "Initial login details were entered in website and mobile application from available books of Vadnagara Patidar Samaj. Its contain basic details of all familly and members"; ObjectID = "v8W-sm-gvJ"; */
+"v8W-sm-gvJ.text" = "Initial login details were entered in website and mobile application from available books of Vadnagara Patidar Samaj. Its contain basic details of all familly and members";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "waq-uQ-vk4"; */
+"waq-uQ-vk4.normalTitle" = "Edit";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "yNZ-jH-EMr"; */
+"yNZ-jH-EMr.text" = "English";
+
+/* Class = "UILabel"; text = "Company Name"; ObjectID = "yqb-Mp-H2a"; */
+"yqb-Mp-H2a.text" = "Company Name";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "zod-Qs-DFR"; */
+"zod-Qs-DFR.normalTitle" = "LOGIN";

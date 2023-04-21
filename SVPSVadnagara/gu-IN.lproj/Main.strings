@@ -1,0 +1,165 @@
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "1h5-iK-Czh"; */
+"1h5-iK-Czh.text" = "પ્રથમ નામ";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "1kW-SS-Ulh"; */
+"1kW-SS-Ulh.text" = "પ્રથમ નામ";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "20N-Uq-ZMe"; */
+"20N-Uq-ZMe.text" = "ઇમેઇલ";
+
+/* Class = "UILabel"; text = "Company Phone No."; ObjectID = "2XK-V7-efB"; */
+"2XK-V7-efB.text" = "કંપની ફોન નંબર";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "31l-i2-8Hn"; */
+"31l-i2-8Hn.text" = "પ્રથમ નામ";
+
+/* Class = "UILabel"; text = "Birthdate"; ObjectID = "7VK-zZ-KtG"; */
+"7VK-zZ-KtG.text" = "જન્મતારીખ";
+
+/* Class = "UIButton"; normalTitle = "Not a member? Sign up now."; ObjectID = "8lr-Z4-bPR"; */
+"8lr-Z4-bPR.normalTitle" = "સભ્ય નથી? અત્યારે જોડવ.";
+
+/* Class = "UILabel"; text = "Country"; ObjectID = "9F9-XP-Dpo"; */
+"9F9-XP-Dpo.text" = "દેશ";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "9xb-sJ-7my"; */
+"9xb-sJ-7my.text" = "પ્રથમ નામ";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "B0s-9H-VeY"; */
+"B0s-9H-VeY.text" = "પ્રથમ નામ";
+
+/* Class = "UILabel"; text = "Telephone Number"; ObjectID = "BXD-VK-t4d"; */
+"BXD-VK-t4d.text" = "ટેલીફોન નંબર";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "BeQ-Hh-2o1"; */
+"BeQ-Hh-2o1.text" = "સરનામું";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "C9i-55-cK5"; */
+"C9i-55-cK5.text" = "પ્રથમ નામ";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "CeY-eh-k1g"; */
+"CeY-eh-k1g.text" = "પ્રથમ નામ";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "DZD-dX-fBf"; */
+"DZD-dX-fBf.text" = "પ્રથમ નામ";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "Eo8-9y-wIt"; */
+"Eo8-9y-wIt.text" = "પ્રથમ નામ";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "I8P-Qv-kQd"; */
+"I8P-Qv-kQd.text" = "પ્રથમ નામ";
+
+/* Class = "UILabel"; text = "Mobile No."; ObjectID = "JFf-FJ-Je9"; */
+"JFf-FJ-Je9.text" = "પ્રથમ નામ";
+
+/* Class = "UILabel"; text = "Relation"; ObjectID = "JtJ-61-rFa"; */
+"JtJ-61-rFa.text" = "સંબંધ";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "L2L-Fs-KCz"; */
+"L2L-Fs-KCz.text" = "પ્રથમ નામ";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "Le8-UB-UhE"; */
+"Le8-UB-UhE.text" = "પ્રથમ નામ";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "NV0-Wl-EI9"; */
+"NV0-Wl-EI9.text" = "પ્રથમ નામ";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "OJb-SC-KOK"; */
+"OJb-SC-KOK.text" = "જાતિ";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "PdP-FR-V0Q"; */
+"PdP-FR-V0Q.text" = "પ્રથમ નામ";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "PdX-Vr-2av"; */
+"PdX-Vr-2av.text" = "પ્રથમ નામ";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "Pxx-X5-GCW"; */
+"Pxx-X5-GCW.text" = "પ્રથમ નામ";
+
+/* Class = "UILabel"; text = "Pincode"; ObjectID = "QoU-tH-GH5"; */
+"QoU-tH-GH5.text" = "પીન કોડ";
+
+/* Class = "UILabel"; text = "Last Name"; ObjectID = "R5g-Al-57g"; */
+"R5g-Al-57g.text" = "અટક";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "Rig-Yy-Vbu"; */
+"Rig-Yy-Vbu.text" = "પ્રથમ નામ";
+
+/* Class = "UILabel"; text = "Middle Name"; ObjectID = "TDJ-TB-i7G"; */
+"TDJ-TB-i7G.text" = "પિતાનું/પતિનું નામ";
+
+/* Class = "UILabel"; text = "Position"; ObjectID = "UUw-ip-5at"; */
+"UUw-ip-5at.text" = "હોદ્દો";
+
+/* Class = "UIButton"; normalTitle = "CHANGE"; ObjectID = "UYd-uz-f6c"; */
+"UYd-uz-f6c.normalTitle" = "બદલો";
+
+/* Class = "UILabel"; text = "Industry"; ObjectID = "VYg-UF-w7N"; */
+"VYg-UF-w7N.text" = "ઉદ્યોગ";
+
+/* Class = "UILabel"; text = "Pole"; ObjectID = "WbR-Ef-ttQ"; */
+"WbR-Ef-ttQ.text" = "પોળ";
+
+/* Class = "UILabel"; text = "Area"; ObjectID = "aCv-qE-7hu"; */
+"aCv-qE-7hu.text" = "વિસ્તાર";
+
+/* Class = "UILabel"; text = "Education"; ObjectID = "azm-3L-sYe"; */
+"azm-3L-sYe.text" = "શિક્ષણ";
+
+/* Class = "UIButton"; normalTitle = "SEND PASSWORD"; ObjectID = "b1X-gE-p7h"; */
+"b1X-gE-p7h.normalTitle" = "પાસવર્ડ મોકલો";
+
+/* Class = "UILabel"; text = "Shakh"; ObjectID = "cfT-qq-ZWj"; */
+"cfT-qq-ZWj.text" = "શાખ";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "ewR-bj-1wY"; */
+"ewR-bj-1wY.normalTitle" = "પાસવર્ડ ભૂલી ગયો?";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "gNI-qQ-oXo"; */
+"gNI-qQ-oXo.text" = "પ્રથમ નામ";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "jUU-Rc-P8w"; */
+"jUU-Rc-P8w.text" = "પ્રથમ નામ";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "kAg-l9-MzY"; */
+"kAg-l9-MzY.text" = "શહેર";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mf6-Wz-uSh"; */
+"mf6-Wz-uSh.text" = "Label";
+
+/* Class = "UILabel"; text = "Material Status"; ObjectID = "nGM-wD-G1A"; */
+"nGM-wD-G1A.text" = "વૈવાહિક સ્થિતિ";
+
+/* Class = "UILabel"; text = "Blood Group"; ObjectID = "nJ0-Pj-5yG"; */
+"nJ0-Pj-5yG.text" = "બ્લડ ગ્રુપ";
+
+/* Class = "UILabel"; text = "Company Address"; ObjectID = "oDv-dB-E35"; */
+"oDv-dB-E35.text" = "કંપનીનું સરનામું";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "pJh-IA-WCU"; */
+"pJh-IA-WCU.text" = "પ્રથમ નામ";
+
+/* Class = "UILabel"; text = "Occupation"; ObjectID = "rFc-tG-l12"; */
+"rFc-tG-l12.text" = "વ્યવસાય";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "uK0-V4-Gez"; */
+"uK0-V4-Gez.text" = "પ્રથમ નામ";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "ua0-Yc-BBz"; */
+"ua0-Yc-BBz.text" = "પ્રથમ નામ";
+
+/* Class = "UILabel"; text = "Initial login details were entered in website and mobile application from available books of Vadnagara Patidar Samaj. Its contain basic details of all familly and members"; ObjectID = "v8W-sm-gvJ"; */
+"v8W-sm-gvJ.text" = "પ્રારંભિક લૉગિન વિગતો વડનગર પાટીદાર સમાજના ઉપલબ્ધ પુસ્તકોમાંથી વેબસાઇટ અને મોબાઇલ એપ્લિકેશનમાં દાખલ કરવામાં આવી હતી. તેમાં તમામ famili અને સભ્યોની મૂળભૂત વિગતો શામેલ છે";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "waq-uQ-vk4"; */
+"waq-uQ-vk4.normalTitle" = "ફેરફાર કરો";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "yNZ-jH-EMr"; */
+"yNZ-jH-EMr.text" = "Label";
+
+/* Class = "UILabel"; text = "Company Name"; ObjectID = "yqb-Mp-H2a"; */
+"yqb-Mp-H2a.text" = "કંપની નું નામ";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "zod-Qs-DFR"; */
+"zod-Qs-DFR.normalTitle" = "લૉગિન";

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="215" id="GMM-AU-8LZ" customClass="FamilyDetailImaeTableCell" customModule="SVPSVadnagara" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="433" height="215"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="GMM-AU-8LZ" id="DPH-JC-VU4">
+                <rect key="frame" x="0.0" y="0.0" width="433" height="214.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Xu3-le-7af">
+                        <rect key="frame" x="0.0" y="0.0" width="433" height="197"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="VLg-tW-XHk">
+                                <rect key="frame" x="156.5" y="15" width="120" height="120"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="120" id="YXB-VO-gts"/>
+                                    <constraint firstAttribute="width" secondItem="VLg-tW-XHk" secondAttribute="height" multiplier="1:1" id="lo7-am-Ojx"/>
+                                </constraints>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                        <real key="value" value="60"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="TMO-Ek-nms">
+                                <rect key="frame" x="12" y="150" width="198.5" height="35"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="35" id="FDV-V1-aJI"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <state key="normal" title="Edit">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="borderWidth">
+                                        <real key="value" value="1"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="color" keyPath="borderColor">
+                                        <color key="value" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                        <real key="value" value="15"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="scv-m3-Vsc">
+                                <rect key="frame" x="156.5" y="150" width="120" height="35"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="120" id="Me0-UZ-g1D"/>
+                                    <constraint firstAttribute="height" constant="35" id="ftR-bb-xmT"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <state key="normal" title="Edit">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="borderWidth">
+                                        <real key="value" value="1"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="color" keyPath="borderColor">
+                                        <color key="value" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                        <real key="value" value="15"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="KJV-vB-sl1">
+                                <rect key="frame" x="222.5" y="150" width="198.5" height="35"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="35" id="sWR-VI-P9N"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <state key="normal" title="Edit">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="borderWidth">
+                                        <real key="value" value="1"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="color" keyPath="borderColor">
+                                        <color key="value" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                        <real key="value" value="15"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="KJV-vB-sl1" firstAttribute="width" secondItem="TMO-Ek-nms" secondAttribute="width" id="3UR-gq-qdd"/>
+                            <constraint firstItem="scv-m3-Vsc" firstAttribute="centerX" secondItem="Xu3-le-7af" secondAttribute="centerX" id="MOC-WW-mVt"/>
+                            <constraint firstAttribute="trailing" secondItem="KJV-vB-sl1" secondAttribute="trailing" constant="12" id="N99-I0-Ym3"/>
+                            <constraint firstItem="KJV-vB-sl1" firstAttribute="leading" secondItem="TMO-Ek-nms" secondAttribute="trailing" constant="12" id="QQs-aC-jT4"/>
+                            <constraint firstItem="KJV-vB-sl1" firstAttribute="top" secondItem="TMO-Ek-nms" secondAttribute="top" id="Qt1-3C-V8K"/>
+                            <constraint firstItem="TMO-Ek-nms" firstAttribute="top" secondItem="VLg-tW-XHk" secondAttribute="bottom" constant="15" id="bMs-0Z-M2F"/>
+                            <constraint firstItem="TMO-Ek-nms" firstAttribute="leading" secondItem="Xu3-le-7af" secondAttribute="leading" constant="12" id="eGv-qg-NSX"/>
+                            <constraint firstItem="VLg-tW-XHk" firstAttribute="centerX" secondItem="Xu3-le-7af" secondAttribute="centerX" id="eIe-ab-a0f"/>
+                            <constraint firstItem="scv-m3-Vsc" firstAttribute="top" secondItem="TMO-Ek-nms" secondAttribute="top" id="fxD-yp-W8I"/>
+                            <constraint firstAttribute="bottom" secondItem="TMO-Ek-nms" secondAttribute="bottom" constant="12" id="o28-7p-cjN"/>
+                            <constraint firstItem="VLg-tW-XHk" firstAttribute="top" secondItem="Xu3-le-7af" secondAttribute="top" constant="15" id="s0p-yq-Ysk"/>
+                            <constraint firstItem="KJV-vB-sl1" firstAttribute="leading" secondItem="TMO-Ek-nms" secondAttribute="trailing" constant="12" id="sm7-qx-Z6d"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="Xu3-le-7af" firstAttribute="top" secondItem="DPH-JC-VU4" secondAttribute="top" id="C3b-GQ-Dn9"/>
+                    <constraint firstItem="Xu3-le-7af" firstAttribute="leading" secondItem="DPH-JC-VU4" secondAttribute="leading" id="KIK-Se-hiJ"/>
+                    <constraint firstAttribute="bottom" relation="greaterThanOrEqual" secondItem="Xu3-le-7af" secondAttribute="bottom" id="VBh-uB-Az9"/>
+                    <constraint firstAttribute="trailing" secondItem="Xu3-le-7af" secondAttribute="trailing" id="jN6-1V-B0k"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="0s3-KE-Yto"/>
+            <connections>
+                <outlet property="btn_Edit" destination="TMO-Ek-nms" id="vKS-g5-gBA"/>
+                <outlet property="btn_Metromonial" destination="KJV-vB-sl1" id="6sv-JR-Cmq"/>
+                <outlet property="btn_SingleEdit" destination="scv-m3-Vsc" id="8hI-SP-HR2"/>
+                <outlet property="img_Profile" destination="VLg-tW-XHk" id="gxu-sE-pOx"/>
+            </connections>
+            <point key="canvasLocation" x="154.34782608695653" y="35.825892857142854"/>
+        </tableViewCell>
+    </objects>
+</document>
